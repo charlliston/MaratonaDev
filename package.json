@@ -1,0 +1,27 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlliston/MaratonaDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlliston/MaratonaDev/issues"
+  },
+  "homepage": "https://github.com/charlliston/MaratonaDev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
